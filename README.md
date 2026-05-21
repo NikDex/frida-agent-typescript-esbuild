@@ -7,7 +7,7 @@ A Frida agent template built with TypeScript and `esbuild`. This project provide
 1. Clone the repo
 
     ```bash
-    git clone https://github.com/giacomoferretti/frida-agent-typescript-esbuild
+    git clone https://github.com/NikDex/frida-agent-typescript-esbuild
     ```
 
 2. Install dependencies
